@@ -28,8 +28,7 @@ advent-of-code-2024/
 
 ### Folder Breakdown:
 
--   **`dayXX/`**: Each day’s challenge will have its own folder containing solutions for both parts of the problem (`part1.py` and `part2.py`).
--   **`inputs/`**: Raw input files for each day’s challenge.
+-   **`dayXX/`**: Each day’s challenge will have its own folder containing solutions for both parts of the problem (`part1.py` and `part2.py`) & Raw input files for each day’s challenge.
 -   **`requirements.txt`**: Python dependencies (if any).
 -   **`LICENSE`**: Repository license information.
 
