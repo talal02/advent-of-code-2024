@@ -15,12 +15,14 @@ advent-of-code-2024/
 │
 ├── day01/
 │   ├── part1.py
-│   ├── day01.txt
-|   ├── day01example.txt
+│   ├── part1.txt
+|   ├── part1example.txt
+│   ├── part2.txt
+│   ├── part2example.txt
 │   └── part2.py
 ├── LICENSE
 ├── .gitignore
-├── requirements.txt
+├── requirements.txt // If any
 └── README.md
 ```
 
