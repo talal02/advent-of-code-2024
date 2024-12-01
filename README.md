@@ -15,11 +15,9 @@ advent-of-code-2024/
 │
 ├── day01/
 │   ├── part1.py
-│   └── part2.py
-├── inputs/
 │   ├── day01.txt
-│   ├── day02.txt
-│   └── ...
+|   ├── day01example.txt
+│   └── part2.py
 ├── LICENSE
 ├── .gitignore
 ├── requirements.txt
